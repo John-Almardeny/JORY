@@ -1,0 +1,5 @@
+You will find another Jory.jar file in the source code, it's just a source of the initial database.
+Because in the first run for the runnable jar file, the program extracts from ITSELF the initial database and copies it to the user home
+to be used from now then.
+To simulate the JORY runnable jar file in Eclipse, you need to keep that file their.
+for more illustration, please have a look at the extractDatabase() in the Resource Class.
