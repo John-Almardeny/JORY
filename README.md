@@ -3,7 +3,7 @@ Preschool Toddlers Learning Program
 
 
 Works on Windows.
-Needs JRE.
+Requires JRE.
 
 
 All Rights Reserved 2016
